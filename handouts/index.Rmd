@@ -20,7 +20,7 @@ options(htmltools.dir.version = FALSE)
 ```
 
 
-```{r fig-margin-slide-1, out.width = "100%", fig.cap="These are handouts for a presentation due on 04. June 2018 at the [ECSA Conference 2018 in Geneva](https://www.ecsa-conference.eu/). The presentation will be available in [HTML](https://sdaume.github.io/2018-ECSA-Social-Computation) and [PDF](https://sdaume.github.io/2018-ECSA-Social-Computation); these handouts are also available as [HTML](https://sdaume.github.io/2018-ECSA-Social-Computation/handouts) and [PDF](https://sdaume.github.io/2018-ECSA-Social-Computation/handouts). The source for both is available in this [GitHub repository](https://github.com/sdaume/2018-ECSA-Social-Computation/).", echo = FALSE}
+```{r fig-margin-slide-1, out.width = "100%", fig.cap="These are handouts for a presentation due on 04. June 2018 at the [ECSA Conference 2018 in Geneva](https://www.ecsa-conference.eu/). The presentation will be available in [HTML](https://sdaume.github.io/2018-ECSA-Social-Computation) and [PDF](https://sdaume.github.io/2018-ECSA-Social-Computation); these handouts will also available as [HTML](https://sdaume.github.io/2018-ECSA-Social-Computation/handouts) and [PDF](https://sdaume.github.io/2018-ECSA-Social-Computation/handouts). The source for both will be available in this [GitHub repository](https://github.com/sdaume/2018-ECSA-Social-Computation/).", echo = FALSE}
 knitr::include_graphics('./screenshots/Daume_ECSA_2018_2_1280x720.png')
 ```
 

@@ -50,6 +50,8 @@ knitr::opts_chunk$set(echo = FALSE)
   
   &nbsp;
   
+  [\@stefandaume](https://twitter.com/stefandaume) / [\@scitingly](https://twitter.com/scitingly)
+  
   *stefan.daume@ecoveillance.org*
   </div>
 </div>

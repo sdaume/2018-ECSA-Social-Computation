@@ -38,6 +38,9 @@ new citizen science movements.
 
  
 
+[\@stefandaume](https://twitter.com/stefandaume) /
+[\@scitingly](https://twitter.com/scitingly)
+
 *<stefan.daume@ecoveillance.org>*
 :::
 :::
