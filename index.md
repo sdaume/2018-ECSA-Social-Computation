@@ -1,4 +1,4 @@
-  {#section .hideslideheader data-background="#333"}
+  {#section .hideslideheader data-background="#061C30"}
 -
 
 ::: {style="display:table;width:100%;table-layout: fixed;"}
@@ -17,10 +17,11 @@ new citizen science movements.
 :::
 
 ::: {style="display:table;width:100%;table-layout: fixed;"}
-::: {.mytitlepage .linksection style="display:table-cell;width:50%;padding-left:3%;vertical-align:bottom;"}
+::: {.mytitlepage .linksection style="display:table-cell;width:30%;padding-left:3%;vertical-align:bottom;"}
+[![](images/logo1_blue_white.png)](https://scitingly.net)
 :::
 
-::: {.mytitlepage .authorsection style="display:table-cell;width:50%;padding-right:3%;"}
+::: {.mytitlepage .authorsection style="display:table-cell;width:70%;padding-right:3%;"}
   **Stefan Daume**
 
 *Scitingly*

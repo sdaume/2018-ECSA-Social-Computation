@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 [//]: <> (Alternative background colours are #002b36 #333 #1E8C45)
 
 
-## &nbsp; {.hideslideheader data-background="#333"}
+## &nbsp; {.hideslideheader data-background="#061C30"}
 <div style="display:table;width:100%;table-layout: fixed;">
   <div class="title-without-logo" style="display:table-cell;width:100%;padding-right:3%;padding-left:3%;vertical-align:middle;">
   From observation to computation? 
@@ -27,11 +27,12 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 
 <div style="display:table;width:100%;table-layout: fixed;">
-  <div class="mytitlepage linksection" style="display:table-cell;width:50%;padding-left:3%;vertical-align:bottom;">
+  <div class="mytitlepage linksection" style="display:table-cell;width:30%;padding-left:3%;vertical-align:bottom;">
+  [![](images/logo1_blue_white.png)](https://scitingly.net)
   </div>
   
   
-  <div class="mytitlepage authorsection" style="display:table-cell;width:50%;padding-right:3%;">
+  <div class="mytitlepage authorsection" style="display:table-cell;width:70%;padding-right:3%;">
   &nbsp;
   **Stefan Daume**
   
