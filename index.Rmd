@@ -203,7 +203,7 @@ knitr::include_graphics('images/ecoveillance_platform_screenshot.jpg')
 
 ## Summary of results
 
-* Tweets are a rich source of **primary biodiversity observations** in general.
+* Tweets are a rich source of **primary biodiversity observations** in general ([Daume, 2016](https://www.sciencedirect.com/science/article/pii/S157495411500196X)).
 * **Singular observations** of invasive species prove valuable.
 * Distinctive **public perceptions** can be extracted.
 
@@ -348,15 +348,17 @@ knitr::include_graphics('images/ecoveillance_platform_screenshot.jpg')
 
 ## "Embryonic Citizen Science Communities" {.hideslideheader} 
 
-* These Twitter conversations are **embryonic citizen science communities**.
+* These Twitter conversations are [**embryonic citizen science communities**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151387) (Daume & Galaz, 2016).
 
 >* Biodiversity data is **collected**, **shared**, **reviewed**, **verified** and **annotated**.
 >* And than **forgotten**.
+
 
 ## Socially computed data of high quality
 
 
 ## Formalisation of interactions is required
+
 
 <aside class="notes">
 Hence the collaboration with Edinburgh Informatics.
@@ -365,7 +367,7 @@ Hence the collaboration with Edinburgh Informatics.
 
 ## Automatic annotation and evaluation of social computations
 
-* Express these interactions with a social calculus.
+* Express these interactions with a [**social calculus**](https://eprints.soton.ac.uk/371943/) (Robertson et al, 2014).
 * Automate the discovery and formal representation of these conversations.
   
 <aside class="notes">
@@ -387,7 +389,7 @@ Hence the collaboration with Edinburgh Informatics.
 </aside>
 
 
-## Application scenario
+## Ecoveillance Application Scenario
 
 1. Seed observation data 
 2. Find micro-communities

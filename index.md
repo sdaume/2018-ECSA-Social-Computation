@@ -255,7 +255,8 @@ Summary of results
 ------------------
 
 -   Tweets are a rich source of **primary biodiversity observations** in
-    general.
+    general ([Daume,
+    2016](https://www.sciencedirect.com/science/article/pii/S157495411500196X)).
 -   **Singular observations** of invasive species prove valuable.
 -   Distinctive **public perceptions** can be extracted.
 
@@ -637,8 +638,9 @@ July 2014</a>
 "Embryonic Citizen Science Communities" {#embryonic-citizen-science-communities .hideslideheader}
 ---------------------------------------
 
--   These Twitter conversations are **embryonic citizen science
-    communities**.
+-   These Twitter conversations are [**embryonic citizen science
+    communities**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151387)
+    (Daume & Galaz, 2016).
 
 > -   Biodiversity data is **collected**, **shared**, **reviewed**,
 >     **verified** and **annotated**.
@@ -656,7 +658,9 @@ Hence the collaboration with Edinburgh Informatics.
 Automatic annotation and evaluation of social computations
 ----------------------------------------------------------
 
--   Express these interactions with a social calculus.
+-   Express these interactions with a [**social
+    calculus**](https://eprints.soton.ac.uk/371943/) (Robertson et al,
+    2014).
 -   Automate the discovery and formal representation of these
     conversations.
 
@@ -680,8 +684,8 @@ How can this be applied?
     also formalised)
 
 </aside>
-Application scenario
---------------------
+Ecoveillance Application Scenario
+---------------------------------
 
 1.  Seed observation data
 2.  Find micro-communities
