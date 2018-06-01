@@ -886,24 +886,3 @@ USDA</a>
 :::
 :::
 :::
-
-Scitingly: Planned structure
-----------------------------
-
-::: {style="display:table;width:100%;table-layout:fixed;vertical-align:center;"}
-::: {style="display:table-cell;width:50%;font-size: 1.2em;"}
-**scitingly.io**
-:::
-
-::: {style="display:table-cell;width:50%;vertical-align:middle;font-size: 1.2em;"}
-**"Scitingly Labs"**
-:::
-:::
-
- 
-
-<img src="images/logo1_blue_white.png" width="35%" />
-
-::: {style="display:table;width:100%;table-layout:fixed;vertical-align:center;font-size: 1.2em;"}
-**Ecoveillance platform**
-:::

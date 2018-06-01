@@ -543,26 +543,3 @@ knitr::include_graphics('images/social_media_landscape_2017.jpeg')
   </div>
 </div>
 
-
-
-## Scitingly: Planned structure
-<div style="display:table;width:100%;table-layout:fixed;vertical-align:center;">
-  <div style="display:table-cell;width:50%;font-size: 1.2em;">
-  **scitingly.io**
-  </div>
-  
-  <div style="display:table-cell;width:50%;vertical-align:middle;font-size: 1.2em;">
-  **"Scitingly Labs"**
-  </div>
-</div>
-
-&nbsp;
-
-```{r  out.width = "35%"}
-knitr::include_graphics('images/logo1_blue_white.png') 
-```
-
-<div style="display:table;width:100%;table-layout:fixed;vertical-align:center;font-size: 1.2em;">
-  **Ecoveillance platform**
-</div>
-
