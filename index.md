@@ -144,16 +144,6 @@ Which social media?
 
 Which ecological problems?
 
-Social Media Landscape {#social-media-landscape .hideslideheader}
-----------------------
-
-<img src="images/social_media_landscape_2017.jpeg" width="55%" />
-
-::: {.attribution-dark}
-Source:
-<a href="https://fredcavazza.net/2017/04/19/social-media-landscape-2017/">https://fredcavazza.net/2017/04/19/social-media-landscape-2017/</a>
-:::
-
 Choice: Twitter
 ---------------
 
@@ -163,6 +153,16 @@ Choice: Twitter
 :::
 :::
 
+<aside class="notes">
+-   Public
+-   Non-reciprocal
+-   Information-push network
+-   Real-time
+-   Low contribution hurdle
+-   Open API
+-   Large volume
+
+</aside>
 Choice: Invasive Alien Species {#choice-invasive-alien-species data-background="./images/asian_carp_by_nerissa_michaels.jpg"}
 ------------------------------
 
@@ -644,25 +644,22 @@ July 2014</a>
 
 > -   Biodiversity data is **collected**, **shared**, **reviewed**,
 >     **verified** and **annotated**.
-> -   And than **forgotten**.
+> -   And then **forgotten**.
 
-Socially computed data of high quality
---------------------------------------
+Socially computed data of high quality!
+---------------------------------------
 
 Formalisation of interactions is required
 -----------------------------------------
 
-<aside class="notes">
-Hence the collaboration with Edinburgh Informatics.
-</aside>
-Automatic annotation and evaluation of social computations
-----------------------------------------------------------
+Automatic formalisation of social computations
+----------------------------------------------
 
--   Express these interactions with a [**social
-    calculus**](https://eprints.soton.ac.uk/371943/) (Robertson et al,
-    2014).
--   Automate the discovery and formal representation of these
-    conversations.
+> -   Express these interactions with a [**social
+>     calculus**](https://eprints.soton.ac.uk/371943/) (Robertson et al,
+>     2014).
+> -   Automate the discovery and formal representation of these
+>     conversations.
 
 <aside class="notes">
 -   formalise generic calculus for verifying environmental observations
@@ -680,18 +677,18 @@ How can this be applied?
 <aside class="notes">
 -   can be applied to classic citsci platform patterns and other data
     sources; and thus helps to compare data sources
--   seed data and community for targeted projects (if user profiles are
-    also formalised)
+-   seed data and community for targeted projects
 
 </aside>
 Ecoveillance Application Scenario
 ---------------------------------
 
-1.  Seed observation data
-2.  Find micro-communities
-3.  Store observation data and alert original community
-4.  Invite community for **digital** curation of new data
-5.  Invite community for **"analog"** data collection
+> 1.  Seed observation data with Twitter searches
+> 2.  Find micro-communities
+> 3.  Store observation data
+> 4.  Alert original communities and
+> 5.  ... invite communities for **digital curation** of new data
+> 6.  ... invite communities for **"analog" data collection**
 
 <aside class="notes">
 -   monitoring projects (examples currently explored: bumblebee, urban
@@ -699,32 +696,20 @@ Ecoveillance Application Scenario
 -   relate to planned Ecoveillance platform
 
 </aside>
-Promising?
-==========
-
-Planned structure
------------------
-
-::: {style="display:table;width:100%;table-layout:fixed;vertical-align:center;"}
-::: {style="display:table-cell;width:50%;font-size: 1.2em;"}
-**scitingly.io**
-:::
-
-::: {style="display:table-cell;width:50%;vertical-align:middle;font-size: 1.2em;"}
-**"Scitingly Labs"**
-:::
-:::
+Thank you!
+----------
 
  
 
-<img src="images/logo1_blue_white.png" width="35%" />
+ 
 
-::: {style="display:table;width:100%;table-layout:fixed;vertical-align:center;font-size: 1.2em;"}
-**Ecoveillance platform**
+ 
+
+::: {.x-small-pg-text style="text-align:left;"}
+<https://sdaume.github.io/2018-ECSA-Social-Computation>
+
+<https://sdaume.github.io/2018-ECSA-Social-Computation/handouts>
 :::
-
-Thank you!
-==========
 
 Colophon {#colophon .colophon}
 --------
@@ -782,39 +767,18 @@ provided under a *CC BY 4.0* public domain license.
 Appendix
 ========
 
-What is needed?
----------------
+Social Media Landscape {#social-media-landscape .hideslideheader}
+----------------------
 
--   Methods to obtain earlier warnings
--   Information to adapt to progressing ecological change
+<img src="images/social_media_landscape_2017.jpeg" width="55%" />
 
-Possible solutions
-==================
-
-More resources
---------------
-
-For traditional environmental monitoring programmes.
-
-Citizen science
----------------
-
-As a supplemental environmental information source.
-
-Shocks {#shocks .slideheader-light data-background="./images/rim_fire_2013.jpg"}
-------
-
-::: {style="display:table;width:100%;margin-top:65%;table-layout:fixed;"}
-::: {.attribution-light style="display:table-cell;width:100%;vertical-align:bottom;"}
-U.S. Department of Agriculture,
-<a href="https://www.flickr.com/photos/41284017@N08/9599182665">Flickr
-20130817-FS-UNK-0004</a>,
-<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
-:::
+::: {.attribution-dark}
+Source:
+<a href="https://fredcavazza.net/2017/04/19/social-media-landscape-2017/">https://fredcavazza.net/2017/04/19/social-media-landscape-2017/</a>
 :::
 
-Twitter properties
-------------------
+Properties: Twitter
+-------------------
 
 <div style="display:table;width:100%;table-layout:fixed;vertical-align:center;">
 ::: {style="display:table-cell;width:50%;"}
@@ -847,15 +811,47 @@ Large volume
 </ul>
 </div>
 </div>
-Ecological monitoring
----------------------
+Properties: Invasive Alien Species {#properties-invasive-alien-species data-background="./images/asian_carp_by_nerissa_michaels.jpg"}
+----------------------------------
 
--   Broad spectrum of monitoring targets
--   Not only discrete events
--   Direct and indirect effects
+<div style="display:table;width:100%;table-layout:fixed;vertical-align:center;">
+<div style="display:table-cell;width:100%;color:white;text-align:left;">
+ 
 
-Sample species
---------------
+ 
+
+ 
+
+ 
+
+<ul>
+<li>
+Drivers and indicators of ecosystem change
+</li>
+<li>
+Ecological, economic and security significance
+</li>
+<li>
+Recognizable by non-experts
+</li>
+<li>
+Often notable and discrete events
+</li>
+<li>
+Subject of "traditional" ecological monitoring
+</li>
+</ul>
+</div>
+</div>
+::: {style="display:table;width:100%;margin-top:5%;table-layout:fixed;"}
+::: {.attribution-light style="display:table-cell;width:100%;vertical-align:bottom;"}
+© <a href="http://wwx.inhs.illinois.edu/fieldstations/irbs/">Nerissa
+Michaels, Illinois River Station</a>
+:::
+:::
+
+Explored sample IAS species
+---------------------------
 
 ::: {style="display:table;width:100%;table-layout:fixed;vertical-align:center;"}
 ::: {style="display:table-cell;width:33%;"}
@@ -891,43 +887,23 @@ USDA</a>
 :::
 :::
 
-Limitations
------------
+Scitingly: Planned structure
+----------------------------
 
--   Tweets with exact geo-coordinates are rare.
--   Only "interesting" species are tweet-worthy.
-
-High accuracy
--------------
-
-76% correctly determined taxa, most at species level.
-
-<img src="images/embcitsci_taxon_level.jpg" width="75%" />
-
-::: {.attribution-dark}
-<a href="https://doi.org/10.1371/journal.pone.0151387">Daume S, Galaz,
-2016. PLoS ONE 11(3): e0151387. </a>
+::: {style="display:table;width:100%;table-layout:fixed;vertical-align:center;"}
+::: {style="display:table-cell;width:50%;font-size: 1.2em;"}
+**scitingly.io**
 :::
 
-Amateur-driven
---------------
-
-<img src="images/embcitsci_contributors.jpg" width="100%" />
-
-::: {.attribution-dark}
-<a href="https://doi.org/10.1371/journal.pone.0151387">Daume S, Galaz,
-2016. PLoS ONE 11(3): e0151387. </a>
+::: {style="display:table-cell;width:50%;vertical-align:middle;font-size: 1.2em;"}
+**"Scitingly Labs"**
+:::
 :::
 
-Next: signature projects
-------------------------
+ 
 
--   Virtual Bumblebee Index
--   **IUCN**: Invasive species monitoring for species prioritised by the
-    EU
--   **World Resources Institute**: community driven restoration of
-    degraded forest
+<img src="images/logo1_blue_white.png" width="35%" />
 
-<aside class="notes">
-(indicator species)
-</aside>
+::: {style="display:table;width:100%;table-layout:fixed;vertical-align:center;font-size: 1.2em;"}
+**Ecoveillance platform**
+:::
