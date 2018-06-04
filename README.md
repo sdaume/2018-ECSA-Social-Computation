@@ -1,10 +1,11 @@
 # ECSA Conference 2018
 This is the source of slides and handouts for a presentation at the ECSA Conference (https://www.ecsa-conference.eu/) hosted by the European Citizen Science Association in Geneva from 3.-5. June 2018.
 
-A live version of the presentation slides can be found [here](https://sdaume.github.io/2018-ECSA-Social-Computation), handouts are available [here](https://sdaume.github.io/2018-ECSA-Social-Computation/handouts).
+A live version of the presentation slides can be found [here](https://sdaume.github.io/2018-ECSA-Social-Computation), an abstract are available [here](https://sdaume.github.io/2018-ECSA-Social-Computation/handouts).
 
 ## Title 
 *"From observation to computation? - Employing social media mining and artificial intelligence to mobilize new citizen science movements."*
+
 
 ## Abstract
 Recruiting volunteers for citizen science projects will typically require significant resources to identify and communicate with potential contributors.  Social online media have proven be valuable sources for many types of data that might commonly be collected in citizen science projects. Examples include observations of species and environmental conditions, occurrences of invasive alien species or plant diseases.  

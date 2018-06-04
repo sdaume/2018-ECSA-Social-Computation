@@ -3,11 +3,11 @@ title: 'From observation to computation? - Employing social media mining and art
 author: "Stefan Daume"
 date: '04. June 2018'
 output:
-  tufte::tufte_html:
-    tufte_variant: envisioned
   tufte::tufte_handout:
     citation_package: natbib
     latex_engine: pdflatex
+  tufte::tufte_html:
+    tufte_variant: envisioned
 link-citations: yes
 bibliography: handout.bib
 ---
@@ -27,8 +27,14 @@ knitr::include_graphics('./screenshots/Daume_ECSA_2018_2_1280x720.png')
 
 # Abstract
 Recruiting volunteers for citizen science projects will typically require significant resources to identify and communicate with potential contributors.  Social online media have proven be valuable sources for many types of data that might commonly be collected in citizen science projects. Examples include observations of species and environmental conditions, occurrences of invasive alien species or plant diseases.  
-Moreover, the ad-hoc assembly of virtual communities has been observed which solve tasks such as species identifications by engaging in for example Twitter conversations. The term ‘embryonic citizen science communities’ [@DaumeGalaz2016_PLOSONE_11] has been used to describe virtual communities that – unaware of their implicit status as citizen scientists – solve tasks which correspond to crowdsourcing efforts employed in many traditional citizen science projects. 
+Moreover, the ad-hoc assembly of virtual communities has been observed which solve tasks such as species identifications by engaging in for example Twitter conversations. The term ‘embryonic citizen science communities’ [@DaumeGalaz2016_PLOSONE_11] has been used to describe virtual communities that – unaware of their implicit status as citizen scientists – solve tasks which correspond to crowdsourcing efforts employed in many traditional citizen science projects.   
 In this speed talk I will outline a theoretical framework to identify and engage emergent virtual communities that provide citizen science-like contributions, in order to ultimately transform them into active citizen science movements, which may be able to contribute to research or deliver rapid responses to environmental challenges.
+
+
+# Bio
+Dr Stefan Daume is currently preparing to launch Scitingly^[https://scitingly.net], a social enterprise and open science platform which will be dedicated to mobilizing social media data and communities for environmental monitoring and citizen science.   
+He holds degrees in Forest Sciences (University of Goettingen) and Artificial Intelligence (The University of Edinburgh). His PhD project (University of Goettingen) - completed in close collaboration with the Stockholm Resilience Centre - focused on social media mining as an opportunistic citizen science model in environmental monitoring.   
+He previously worked in several IT startups, before concentrating on biodiversity informatics, crowdsourcing and citizen science with assignments at the Stockholm Resilience Centre, the Swedish node of the Global Biodiversity Information Facility and the Bioinformatics group at the Swedish Museum of Natural History.
 
 
 
