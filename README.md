@@ -6,6 +6,7 @@ A live version of the presentation slides can be found [here](https://sdaume.git
 ## Title 
 *"From observation to computation? - Employing social media mining and artificial intelligence to mobilize new citizen science movements."*
 
+
 ## Abstract
 Recruiting volunteers for citizen science projects will typically require significant resources to identify and communicate with potential contributors.  Social online media have proven be valuable sources for many types of data that might commonly be collected in citizen science projects. Examples include observations of species and environmental conditions, occurrences of invasive alien species or plant diseases.  
 Moreover, the ad-hoc assembly of virtual communities has been observed which solve tasks such as species identifications by engaging in for example Twitter conversations. The term ‘embryonic citizen science communities’ has been used to describe virtual communities that – unaware of their implicit status as citizen scientists – solve tasks which correspond to crowdsourcing efforts employed in many traditional citizen science projects. 
